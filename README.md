@@ -1,2 +1,2 @@
 # GameMaker-Bugs
-Public tracking for GameMaker bugs
+This is a test repo
